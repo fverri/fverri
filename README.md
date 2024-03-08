@@ -2,7 +2,7 @@
 
 ## Greetings
 
-Welcome to my GitHub repository. I am Francisco Verri, a software developer and a dedicated student at Norbridge School with a focus on web development and algorithmic problem-solving. I have earned certifications in Responsive Web Design, JavaScript Algorithms and Data Structures, and Front End Development Libraries from FreeCodeCamp.
+Welcome to my GitHub profile. I am Francisco Verri, a software developer and a dedicated student at Norbridge School with a focus on web development and algorithmic problem-solving. I have earned certifications in Responsive Web Design, JavaScript Algorithms and Data Structures, and Front End Development Libraries from FreeCodeCamp.
 
 ### About Me
 - Education: Currently enrolled at Norbridge School with a focus on software development.
