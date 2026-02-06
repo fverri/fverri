@@ -23,9 +23,6 @@ Exploring various domains within software development, from web technologies to 
 - Backend: Node.js, Python
 - Other: Arduino for IoT projects
 
-### GitHub Stats
-![Francisco Verri's GitHub stats](https://github-readme-stats.vercel.app/api?username=fverri&show_icons=true&theme=dracula)
-
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
